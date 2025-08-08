@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.log
+.cache/
+.cache/*
+.cache
+.venv/
+.env
+.env.*
+dist/
+build/
+htmlcov/
+coverage.xml
+*.egg-info/
+node_modules/
+data/
+tests/__pycache__/
+*.ipynb_checkpoints
+# Hugging Face/pip caches on host
+~/.cache/
